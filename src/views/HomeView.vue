@@ -47,22 +47,7 @@
 				<div class="about__content about__details">
 					<h1 class="subHeading subHeading--js">About Me</h1>
 					<p class="description">
-						I’m a junior front-end developer looking for a new role in an
-						exciting company. I focus on writing accessible HTML, using modern
-						CSS practices and writing clean JavaScript. When writing JavaScript
-						code, I mostly use Vuejs, but I can adapt to whatever tools are
-						required. I’m based in Lagos, Nigeria, but I’m happy working
-						remotely and have experience in remote teams. 
-            
-            Being a deligent, hard-working and result oriented developer, i always work towards achieving best result on each project i work on.
-
-            When I’m not coding,
-						you’ll find me either reading, playing chess or going to the gym.
-            
-            <!-- I love being out in nature whether that’s
-						going for a walk, run or cycling. -->
-            
-            I’d love you to check out my work.
+						I'm a front-end developer eager to join an exciting company. My expertise includes crafting accessible HTML, applying modern CSS practices, and writing clean JavaScript code. While I favor Vue.js for development, I'm versatile and can adapt to different tools as needed. I'm currently based in Lagos, Nigeria, but I'm open to remote work and have experience in remote teams. I'm a diligent and result-driven developer, consistently striving for the best outcomes on every project. When I'm not coding, you'll find me reading, playing chess, or hitting the gym. Don't hesitate to explore my work
 					</p>
 
 					<router-link :to="{ name: 'portfolioView' }" class="cta cta__sec">
